@@ -4,3 +4,6 @@ h1 {
 body{
 	background-color: #BFBFBF;
 }
+.img-responsive {
+	width:1000px;height:300px;
+}
